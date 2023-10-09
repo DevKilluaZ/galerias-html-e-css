@@ -1,0 +1,112 @@
+body {
+    background-color: gray;
+    margin: 0;
+    border: 0;
+}
+table {
+    width: 100vw;
+    height: 100vh;
+    border: 2px solid rgb(128, 128, 128);
+    margin: auto;
+    border-collapse: collapse;
+}
+td {
+    width: 12.5%;
+    height: 20%;
+    border: 5px solid rgb(128, 128, 128);
+    border-radius: 15px;
+}
+#um {
+    background-image: url('../img/img1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#dois {
+    background-image: url('../img/img2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#tres {
+    background-image: url('../img/img3.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#quatro {
+    background-image: url('../img/img4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#cinco {
+    background-image: url('../img/img5.jpg');
+    background-size: cover;
+}
+#seis {
+    background-image: url('../img/img6.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#sete {
+    background-image: url('../img/img7.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#oito {
+    background-image: url('../img/img8.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#nove {
+    background-image: url('../img/img9.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#dez {
+    background-image: url('../img/img10.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#onze {
+    background-image: url('../img/img11.jpg');
+    background-size: cover;
+}
+#doze {
+    background-image: url('../img/img12.jpg');
+    background-size: cover;
+}
+#treze {
+    background-image: url('../img/img13.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#catorze {
+    background-image: url('../img/img14.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#quinze {
+    background-image: url('../img/img15.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#dezesseis {
+    background-image: url('../img/img16.jpg');
+    background-size: cover;
+}
+#dezessete {
+    background-image: url('../img/img17.jpg');
+    background-size: cover;
+    background-position: center;
+} 
+#dezoito {
+    background-image: url('../img/img18.jpg');
+    background-size: cover;
+}
+#dezenove {
+    background-image: url('../img/img19.jpg');
+    background-size: cover;
+}
+#vinte {
+    background-image: url('../img/img20.jpg');
+    background-size: cover;
+}
