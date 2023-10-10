@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image: url(../img/3309587.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: #e300f772;
+    overflow: hidden;
+}
+
+.navbar a {
+    font-size: 20px;
+    float: right;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a.left {
+    float: left;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 230px; 
+}
+
+
+.text {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
